@@ -51,9 +51,17 @@ Powerful telegram bot that scrape Posters from multiple OTT platforms & Bypass d
 /imdb - Search movie/series on IMDb
 /anime - Search Anime on Anilist
 /gdflix - Bypass GDFlix links to direct links
+/extraflix - Bypass ExtraFlix links to direct links
 /hubcloud - Bypass HubCloud links to direct links
 /hubdrive - Bypass Hubdrive links to direct links
 /transfer_it - Bypass Transfer.it links to direct links
+/hubcdn - Bypass HubCDN links to direct links
+/driveleech - Bypass DriveLeech links to direct links
+/neo - Bypass NeoLinks links to direct links
+/gdrex - Bypass GDRex links to direct links
+/pixelcdn - Bypass PixelCDN links to direct links
+/extralink - Bypass ExtraLink links to direct links
+/luxdrive - Bypass LuxDrive links to direct links
 /overlap - Overlay a logo on a poster
 /prime - Prime Video poster
 /netflix - Netflix poster
