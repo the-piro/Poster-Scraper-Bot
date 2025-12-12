@@ -25,7 +25,7 @@ async def _strt(client, message):
         await send_message(
             message,
             echo.ABC,
-            buttons=btns,
+           # buttons=btns,
             photo=echo.IMG,
             has_spoiler=True,
         )
