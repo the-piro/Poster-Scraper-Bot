@@ -25,7 +25,7 @@ async def _poster_cmd(client, message):
         wait_msg = await send_message(message, f"<i>Fetching poster for:</i>\n<code>{target}</code>")
         info, err = await _fetch_ott_info(cmd, target)
         if err:
-            return await edit_message(wait, f"<b>Error:</b> <code>{err}</code>")
+            return await edit_message(wait_msg, f"<b>Error:</b> <code>{err}</code>")
 
         header = [
             f"<b>📺 Source:</b> {info['source']}",
